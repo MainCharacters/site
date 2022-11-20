@@ -12,5 +12,4 @@ events:
   - ipod_1g
   - iphone-jobs
   - apple-smartwatch
-  - arcade-machine
 ---
