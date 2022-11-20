@@ -1,0 +1,21 @@
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/FaidonTsetsis/_gallery
+[submodule "_quotes"]
+	path = _quotes
+	url = https://github.com/FaidonTsetsis/_quotes
+[submodule "images"]
+	path = images
+	url = https://github.com/FaidonTsetsis/images
+[submodule "_bibliography"]
+	path = _bibliography
+	url = https://github.com/FaidonTsetsis/bibliography
+[submodule "_notes"]
+	path = _notes
+	url = https://github.com/FaidonTsetsis/notes
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/FaidonTsetsis/extras
+[submodule "_includes/text"]
+	path = _includes/text
+	url = https://github.com/FaidonTsetsis/text
