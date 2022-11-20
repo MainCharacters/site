@@ -9,3 +9,5 @@ categories:
 tags:
   - Assistant
 ---
+
+{% include cs-siri-assistant.md %}
