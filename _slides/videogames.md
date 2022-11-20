@@ -14,4 +14,6 @@ slides:
   - math-blaster
   - minecraft-end-user
   - kinect
+  - arcade-machine
+  - playstation-portable
 ---
