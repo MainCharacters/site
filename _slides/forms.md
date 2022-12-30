@@ -17,5 +17,7 @@ slides:
   - bbc-micro
   - apple-newton
   - iphone-jobs
+  - apple-wireless-mouse
+  - apollo-touchpad
 ---
 
