@@ -12,5 +12,7 @@ events:
   - input-comparison
   - apple-mouse
   - mouse-test-software
+  - apple-wireless-mouse
+  - apollo-touchpad
 ---
 
