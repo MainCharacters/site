@@ -21,6 +21,6 @@ events:
   - media-scrub
   - kinect
   - leap-motion
-  - VersaBraille
+  - versabraille
 ---
 
