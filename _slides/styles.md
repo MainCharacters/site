@@ -23,6 +23,6 @@ slides:
   - apple-newton
   - igoefinger
   - chat-bot
-  - VersaBraille
+  - versabraille
 ---
 
